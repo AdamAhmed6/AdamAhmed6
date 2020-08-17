@@ -1,16 +1,38 @@
-### Hi there 👋
+Hi there, I'm href="mailto:adam.egy6@gmail.com" rel="nofollow">Adam</a> 👋
+Connect with me:
+MurtajaZiad.xyzMurtajaZiad | YouTubeMurtajaZiad | TwitterMurtajaZiad | InstagramMurtajaZiad | Facebook
 
-<!--
-**AdamAhmed6/AdamAhmed6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:
+Visual Studio Code
 
-Here are some ideas to get you started:
+HTML5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS3
+
+Sass
+
+JavaScript
+
+TypeScript
+
+Vue
+
+Bootstrap
+
+TailwindCSS
+
+Node.js
+
+MongoDB
+
+Git
+
+GitHub
+
+Terminal
+
+Python
+
+
+
+📺 Latest YouTube Videos
