@@ -1,4 +1,4 @@
-Hi there, I'm [MAIL](mailto:adam.egy6@gmail.com)Adam</a> 👋
+Hi there, I'm [Adam](mailto:adam.egy6@gmail.com)</a> 👋
 Connect with me:
 MurtajaZiad.xyzMurtajaZiad | YouTubeMurtajaZiad | TwitterMurtajaZiad | InstagramMurtajaZiad | Facebook
 
