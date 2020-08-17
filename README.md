@@ -1,4 +1,4 @@
-Hi there, I'm href="mailto:adam.egy6@gmail.com" rel="nofollow">Adam</a> 👋
+Hi there, I'm [MAIL](mailto:adam.egy6@gmail.com)Adam</a> 👋
 Connect with me:
 MurtajaZiad.xyzMurtajaZiad | YouTubeMurtajaZiad | TwitterMurtajaZiad | InstagramMurtajaZiad | Facebook
 
