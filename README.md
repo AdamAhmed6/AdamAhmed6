@@ -1,8 +1,8 @@
-## Hi there, I'm [Zavey](mailto:adam.egy6@gmail.com) 👋
+## Hi there, I'm [Zavey](mailto:adam.egy6@gmail.com) 👋🏼
 
 ### Contact with me:
 
-[<img align="left" alt="AdamAhmed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/AdamAhmed6)
+[<img align="left" alt="Zavey" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/Zavey6)
 <br />
 
 ### Languages and Tools:
